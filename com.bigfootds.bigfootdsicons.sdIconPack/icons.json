@@ -1,0 +1,100 @@
+[
+	{
+		"path":"BigfootDS-Colour-Logo.png",
+		"name":"BigfootDS Colour Logo",
+		"tags": [
+			"bigfootds", "color", "colour", "logo", "company"
+		]
+	},
+	{
+		"path":"BigfootDS-Black-Logo.png",
+		"name":"BigfootDS Black Logo",
+		"tags": [
+			"bigfootds", "black", "logo", "company"
+		]
+	},
+	{
+		"path":"BigfootDS-White-Logo.png",
+		"name":"BigfootDS White Logo",
+		"tags": [
+			"bigfootds", "white", "logo", "company"
+		]
+	},
+	{
+		"path":"PatronSimulator-Colour-Logo.png",
+		"name":"Patron Simulator Colour Logo",
+		"tags": [
+			"bigfootds", "patron simulator", "color", "colour", "logo", "game"
+		]
+	},
+	{
+		"path":"PlanetProtectorVR-Colour-Logo.png",
+		"name":"Planet Protector VR Colour Logo",
+		"tags": [
+			"bigfootds", "planet protector vr", "color", "colour", "logo", "game"
+		]
+	},
+	{
+		"path":"TheBestestBeehive-Colour-Logo.png",
+		"name":"The Bestest Beehive Colour Logo",
+		"tags": [
+			"bigfootds", "the bestest beehive", "color", "colour", "logo", "game"
+		]
+	},
+	{
+		"path":"Sourcepool-White-Logo.png",
+		"name":"Sourcepool White Logo",
+		"tags": [
+			"bigfootds", "sourcepool", "white", "logo", "app"
+		]
+	},
+	{
+		"path":"Sourcepool-Black-Logo.png",
+		"name":"Sourcepool Black Logo",
+		"tags": [
+			"bigfootds", "sourcepool", "black", "logo", "app"
+		]
+	},
+	{
+		"path":"Recording.png",
+		"name":"Recording",
+		"tags": [
+			"bigfootds", "obs", "utils", "utilities", "color", "colour"
+		]
+	},
+	{
+		"path":"Screen-White.png",
+		"name":"Screen White",
+		"tags": [
+			"bigfootds", "obs", "utils", "utilities", "color", "colour"
+		]
+	},
+	{
+		"path":"Screen-White-Person-Large.png",
+		"name":"Screen With Person Over Background",
+		"tags": [
+			"bigfootds", "obs", "utils", "utilities", "color", "colour", "person", "greenscreen", "chroma key"
+		]
+	},
+	{
+		"path":"Screen-White-Person-Large-No-Background.png",
+		"name":"Screen With Person Over Empty Background",
+		"tags": [
+			"bigfootds", "obs", "utils", "utilities", "color", "colour", "person", "greenscreen", "chroma key"
+		]
+	},
+	{
+		"path":"Screen-White-Person-Left.png",
+		"name":"Screen With Person Keyed Left",
+		"tags": [
+			"bigfootds", "obs", "utils", "utilities", "color", "colour", "person", "greenscreen", "chroma key"
+		]
+	},
+	{
+		"path":"Screen-White-Person-Right.png",
+		"name":"Screen With Person Keyed Right",
+		"tags": [
+			"bigfootds", "obs", "utils", "utilities", "color", "colour", "person", "greenscreen", "chroma key"
+		]
+	}
+]
